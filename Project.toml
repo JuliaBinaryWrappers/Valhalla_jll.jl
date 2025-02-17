@@ -1,11 +1,11 @@
 name = "Valhalla_jll"
 uuid = "ec38b58b-a3a2-58d8-a716-642f1d7feaa0"
-version = "3.3.0+0"
+version = "3.5.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 LibCURL_jll = "deac9b47-8bc7-5906-a0fe-35ac56dc84c0"
+OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
 GEOS_jll = "d604d12d-fa86-5845-992e-78dc15976526"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
@@ -15,6 +15,12 @@ protoc_jll = "c7845625-083e-5bbe-8504-b32d602b7110"
 boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-boost_jll = "=1.76.0"
+LibCURL_jll = "7.73,8"
+OpenSSL_jll = "3.0.16"
+GEOS_jll = "3.13.1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
+protoc_jll = "105.29.3"
+boost_jll = "=1.87.0"

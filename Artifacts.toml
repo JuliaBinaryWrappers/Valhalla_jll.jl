@@ -1,252 +1,316 @@
 [[Valhalla]]
 arch = "aarch64"
-git-tree-sha1 = "6afa87767e6a9b81be376cf299b87e0d8b151457"
+git-tree-sha1 = "62b6e63a247eaf02dfb64013953b37ad505c116d"
 os = "macos"
 
     [[Valhalla.download]]
-    sha256 = "0df6fa858d26b4c95743bc1d58a98c449655045980687fb3a3a647c0e69abd5c"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "a3d130d566b7bf67dea8562811e5b47c9e5c9c9d600d35d54a94df8ec9fcc259"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-apple-darwin.tar.gz"
 [[Valhalla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a587a876071d656f081a0f0de4abe6f9d854101"
+git-tree-sha1 = "8fca0a09a8f577d528c2ec3a1cb88369da070780"
 libc = "glibc"
 os = "linux"
 
     [[Valhalla.download]]
-    sha256 = "cf7bde2647b95754bf023ab4133d25891f6d8e296ff516f0584ff8788675b707"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "4cfceb55ae6c3cfdf62a6c8fec129b745f5b64235e7f76e581de453fc3faf781"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Valhalla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3dc581afee0b35ba3c28ce29996d037fb387d810"
+git-tree-sha1 = "6b037f9be197eba4fbde9e4e52d01b355001ca4b"
 libc = "glibc"
 os = "linux"
 
     [[Valhalla.download]]
-    sha256 = "b1c660d5261b46f681f92311db4c7c05a85a650a32b4230114ee996eab1069de"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ab16a204999d92981155a34fbf2bbb58f94bdb144755f9339683db3f40a48064"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Valhalla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "94c374c579d4a96afb42943a5168affb481526a6"
+git-tree-sha1 = "fc35a4239e787f0d6ae4db76047063fce7dad075"
 libc = "musl"
 os = "linux"
 
     [[Valhalla.download]]
-    sha256 = "739adab65c7ba12ebd8b5f89e0bbc120d0d680442a991dd88063265addf7620a"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "69d54389ac9ca46a9801a0199fcba1ffbba0f6949b5c4db245e97899633d1639"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Valhalla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "450d24da789f3d869fbf457c462690ab335622ea"
+git-tree-sha1 = "0dbbff9441491cfee3a3ea55f285ce2504fee955"
 libc = "musl"
 os = "linux"
 
     [[Valhalla.download]]
-    sha256 = "9d1c53153e84fbe0414cb2820a2342e78daa912e20c33c1ffe7dc48f4db4c92b"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "9d7af802fd0fac6372ee2fb7a96836594623cc4274ea22d582f6b5def2e90c88"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Valhalla]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "754ba2aeb8580bedc0b39ab8543951acbe7074b8"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "191fa41afb23c59609c0ea838377aa5b35fb9f9de9ab75b94cb4c95e7ddd8d1b"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[Valhalla]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2f8128bbec7df0e53e779e62bd0efc5b40c8f7f"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "0ef3c3682db2b5d8d8990055ce7eae2000cfaf29ce2e08ce4105a8a15951b8d4"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[Valhalla]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a16bb54c25311718d6f0d58e433b066208262b5a"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "fd8d7f89ae3b9392c2924a374ed689d94671cb61b6a72f2813b1ddab18b7fa82"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[Valhalla]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ceccbf1ea078283062c5d2b1f2ebd267b5c4f18"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "1441659210b91d9d9acb68123ee39dc2afb87c983fbf930bdb07c741d4457e03"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[Valhalla]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "14d491256867ff2404521919cc31ad2e60b4cf14"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "448cc4996ca286e2d03b5774c4f1715b27fd5cee7339c9156c6a85ae84994404"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Valhalla]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce4b86bba75a324edb375f450a25fb786d3027d3"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "db5b0558bcf97613c0cf3f73a3298bf27b83a3bad5511cdbfebd9fc55cc9b41f"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Valhalla]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "03ad3128e18660440b77e8efd95f47ffae7328da"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "ff7fc9a0026d4e7937dff46edb84443f197ccbdf6554cacc34b844e83d5e28b1"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Valhalla]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebfb2f04d4ff4f19152ef398545dad2ceb6c83ad"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "5a1238d77660f3db06ad5f117a70d79086793a48c748b07176833310e235ae8d"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[Valhalla]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "21d4c020c0d7c246785527142a11603c4a04e741"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "4419e0d3c091fd8e797c90670a386fa9491e79632c3db1d63e6fb3a62a194c59"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.i686-linux-gnu-cxx03.tar.gz"
-[[Valhalla]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b2f6df18fc4d497a2cc612c5b71fbc768ecffbef"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "dcaecce9fa0df18b5da8e687f60342bfb51d320343fffe58ff62a9f884b7b1fa"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.i686-linux-gnu-cxx11.tar.gz"
-[[Valhalla]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e558bffa750daf36c574e2f42ed4c8118f2ab1a"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "0b8beef4f8dade37e3ce74c0f2bfe5cc049de2a7b85a059caa67a7560189373b"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.i686-linux-musl-cxx03.tar.gz"
-[[Valhalla]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b8e8eccc146c213bf014bc8882f1d70104dd922d"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "2559011bb8f2e91e4c4b02657abd6d511ef4829b7c17527e42b57e510910a9d9"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.i686-linux-musl-cxx11.tar.gz"
-[[Valhalla]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f062e5406d3b193147f0a4bcf553066ae4da409b"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "08826cf2161047f3f629c072da51bd04604883bcd0e114395004258571761f8d"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Valhalla]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "05df1a979de3fc875ede87df0e462a5d61c1a846"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "132e98727caa86b57f780ae7ce529eea5d9fad99a14940b5bbe27ea1d7fabeaa"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-git-tree-sha1 = "25fd29e2d46d643e09bc36ce23afafae57e02a02"
-os = "macos"
-
-    [[Valhalla.download]]
-    sha256 = "54b2a440a356e5ebb7f6d03f658bc575afca02f1d5bed73e969b2bea0ea87fb1"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-apple-darwin.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc7db3a77fcafb46bcc3ed61af75d84bfb103770"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "79b5cb9fbb18a56e83487c207f948d3dc78d0ecaaf13505ac0b0d3fe25f03eb6"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "78fd2a61166747ddd5da381222180589c5d7bf99"
-libc = "glibc"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "c54565c08ac3aad9d78ba0c3d955eb2c08b90b4fae85bd279853313b9089b6e2"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d283b648673da86c62bb175d51559aa375517ef8"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "e7fb0d984222303df7846a955c6a643f60eb96ae62ebd1719f099faed40f406e"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-linux-musl-cxx03.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee1ad3647a17e78abe40a4b4472658a4378b13bf"
-libc = "musl"
-os = "linux"
-
-    [[Valhalla.download]]
-    sha256 = "e7a4227e396b5c18aa7b69caf1ba1b9ccb5c591f821b9fa791416a5f426e788b"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-linux-musl-cxx11.tar.gz"
-[[Valhalla]]
-arch = "x86_64"
-git-tree-sha1 = "d0cd838d890e1d50a875163e85687bbfbe5fab80"
+arch = "aarch64"
+git-tree-sha1 = "b2f7d1c53ac6e640825bef036890f8a684df0f78"
 os = "freebsd"
 
     [[Valhalla.download]]
-    sha256 = "70dc37fbcbeb6a6ecf173a06d6f196cf0cea0dde37ebee0b360ee403f7a5fd23"
-    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.3.0+0/Valhalla.v3.3.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ed38b148cb348aa8cc478ec8e6878d5a63c0bd67ab939cc5dc3bf484f5d411f8"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.aarch64-unknown-freebsd.tar.gz"
+[[Valhalla]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc26188a22130336468ff430c4925c2f38764dee"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "123b3ba00d2bd76edbc9ca8e104b0e8b7ab2ee1f5d3fd3415468244c8a1bf86d"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Valhalla]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9c452692f3157bb07fd0d694fa76c6cb8c631b1"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "5807fca14f34f945432145c08bd344d9a5d342e27c121483400ee22efb266ffa"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Valhalla]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5aa9d5384bea70e3116ddf74abcf5ebffe6ad70"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "a01c590cf3717e4cefe07a50da5b914a8ea96312799a6989e5be0db9aecc0543"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Valhalla]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13c5b14b6fcc65e1b03bd8f5374815300c1fbb4d"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "331b8a815c38df5440d4257ec2050bf1d3eeaf047b6b742865a9645cd03b441b"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Valhalla]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa7d6b7f83de1523166a8faa4ea6bfa323fc2970"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "c9438c6996f5ee9098fb65d65b42def624dc2ae4148701569accba81787e404f"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Valhalla]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5cf49c9a89258520d301d3b1889d2b028c6ddb1"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "35753d525070c20452bf7226c356ef48979bf202e347f0920d3045403ef26ec0"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Valhalla]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eed74d78b2340b97700c6385b8728ce5b719eb83"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "0d51e5a95d1edb4aeec4531b267618b5d96b8f33083a23a6e5ae03ce748cdff4"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Valhalla]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "805224ff89d607d26a1b9e9d68690e239640f2eb"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "2a4a03aea878e3ad1a2fab16888ab2cd24a331e8e24b1a8fd2a06e0c1f31a34f"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3590987366dd37d1eebfa046ee758c0804e2c86"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "37404b7b654ae383e0012e55f0a7e936b4e00ac854789567e9a18e1baf03a463"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-linux-gnu-cxx03.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1c5e39760e8f3364677fa7c8f864a9a4aa8a565"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "6f5913c5e34730ac5ba3d1bfbb4665cdf66a4e9994406877960b617a60251e42"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-linux-gnu-cxx11.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4cc82ba586a35c75964bd57bcfb450760550f744"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "a425d90782c7a707b73e43084ecda06cecbf200aef73d9d35c89a06fbfbaffe0"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-linux-musl-cxx03.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "feb7c1869c9436b4d3bcae6a88904f10b44884ce"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "b1ce3fd26fc489e3ea81c9040dcf7cbd2c838135118363b84df02eec55e78531"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-linux-musl-cxx11.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "921a0b5a8ab6e5eb582aafeec07d9e7a789666e1"
+os = "windows"
+
+    [[Valhalla.download]]
+    sha256 = "f5774a89ec87f1980549118f45f3782683626f709e73e5f66bd9b813ac660f88"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-w64-mingw32-cxx03.tar.gz"
+[[Valhalla]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b0437125e8b0c7c96b78f1118a10ef8b447f92b"
+os = "windows"
+
+    [[Valhalla.download]]
+    sha256 = "421502fcd2a030ed369d2c38d4cfccdba813b8ba0059df6b5213eb674fa4c07f"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Valhalla]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f34e326c86fe2e20a5efabc663875ea9f3c1e79"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "9920cd3fb25b21ccbba6b976a8e8856e23f778c92a550473bad6a0b0eefc4dc6"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Valhalla]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c4232bdfe3bf7e79e3905174527148ec7bb9648"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "dae2e424700dcbc55f6d2a73b9b4348f8208e0afe4d6125c79bed442c8c01b0b"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Valhalla]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98121e1fdee5aec6f0c93a2294c6d8ce40dfe294"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "9dbc094d703f40db3c2d4a6c2e285185ef72c6b908e1bd7bf323181618dab0b8"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.riscv64-linux-gnu-cxx03.tar.gz"
+[[Valhalla]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "812f4925ec9d226eaabf08203e24433e99cf50bb"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "0e636f65fcd7d263ea1284c4423628564669f7cd444b7567666951c7b260f568"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+git-tree-sha1 = "60d8dd80c83a2f1d94076ad5b30dc2c3e35d8516"
+os = "macos"
+
+    [[Valhalla.download]]
+    sha256 = "6462c242a47c5aa00953bb3b1e0725d6d2ea20c710f18d7c2ffa2c6c92053838"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-apple-darwin.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "45d2742e20be660b770c970cf3beb86cfa6b7f55"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "00cc0e33a5615b38831b4a1004cde9d20d057c7bbb46481c47604b0c38376409"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4b9c3c4840a2c9b992a9496ad924ebad8c85858"
+libc = "glibc"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "c45901429302fc33c99ad03db2f71015af37a9f4abbb70abcc516ecb62ea83c5"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "203786dad9c53b7eb96310d44fda6a7f38688cdb"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "764555430adc472fe5d4ea6a1da68fbe7349f92bdb1f3d99acb12869b6235ea4"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-linux-musl-cxx03.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "221199d85baecad3d819cfd2aa01d2e8c95f82a8"
+libc = "musl"
+os = "linux"
+
+    [[Valhalla.download]]
+    sha256 = "5d6c2c86ef7ce01887d41bda5d968deacc68f9a6af80ff323897768ee47ee0ce"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+git-tree-sha1 = "5a62828d490589830b9841c6a3f101805c85b772"
+os = "freebsd"
+
+    [[Valhalla.download]]
+    sha256 = "82d1b8950d78575777211c4a65dd069fc860ae651b882efb287e2aa144a2ddf1"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-unknown-freebsd.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3883a70becdac782e38412ad5392cf224fae9d34"
+os = "windows"
+
+    [[Valhalla.download]]
+    sha256 = "1e82fa11bc81a308e678063bcb82ea7e2cbd0c6d7772dea6269391fb231b969a"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Valhalla]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c545c7cb1fe03d036521f218b94fdca6cb4d78e"
+os = "windows"
+
+    [[Valhalla.download]]
+    sha256 = "d07c946cce12585a656bd796819a6ea63efadf1186a5818d6a5b79833fa6d0f5"
+    url = "https://github.com/JuliaBinaryWrappers/Valhalla_jll.jl/releases/download/Valhalla-v3.5.1+0/Valhalla.v3.5.1.x86_64-w64-mingw32-cxx11.tar.gz"
